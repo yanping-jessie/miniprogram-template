@@ -1,0 +1,27 @@
+@text-gray: #a1a1a3;
+@text-red: #eb4b35;
+@text-green: #35bf10;
+@text-blue: #3073f4;
+
+.text {
+  &--gray {
+    color: @text-gray;
+  }
+  &--red {
+    color: @text-red;
+  }
+  &--green {
+    color: @text-green;
+  }
+  &--blue {
+    color: @text-blue;
+  }
+}
+
+.ellipsis {
+  max-width: 100%;
+  display: inline-block;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}

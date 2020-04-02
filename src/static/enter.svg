@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon_next_blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="a01-首页-（默认）" transform="translate(-340.000000, -593.000000)">
+            <g id="直播模块" transform="translate(0.000000, 514.000000)">
+                <g id="下一个" transform="translate(340.000000, 79.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="12" height="12"></rect>
+                    <path d="M2.7887161,11.7119087 C2.6038805,11.5278025 2.5,11.2778095 2.5,11.0171006 C2.5,10.7563918 2.6038805,10.5063988 2.7887161,10.3222925 L7.12001833,5.99970776 L2.7887161,1.67812126 C2.40447653,1.29383801 2.40492407,0.671238706 2.78971571,0.287506796 C3.17450735,-0.0962251142 3.79793033,-0.0957781657 4.1821699,0.288505083 L9.21119863,5.30489967 C9.39609479,5.48917652 9.5,5.73933476 9.5,6.0002069 C9.5,6.26107904 9.39609479,6.51123728 9.21119863,6.69551413 L4.1821699,11.7119087 C3.79731127,12.0960304 3.17357473,12.0960304 2.7887161,11.7119087 Z" id="jinru-6-copy-3" fill="#303943" opacity="0.2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

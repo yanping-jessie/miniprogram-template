@@ -1,0 +1,10 @@
+<svg id="_-s-shanc" data-name="-s-shanc" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #949aa8;
+      }
+    </style>
+  </defs>
+  <path id="shanc" class="cls-1" d="M1472,84a9,9,0,1,1,9-9A9,9,0,0,1,1472,84Zm3.182-10.768a1,1,0,0,0-1.414-1.414L1472,73.586l-1.768-1.768a1,1,0,0,0-1.414,1.414L1470.586,75l-1.768,1.768a1,1,0,0,0,1.414,1.414L1472,76.414l1.768,1.768a1,1,0,0,0,1.414-1.414L1473.414,75Z" transform="translate(-1463 -66)"/>
+</svg>
