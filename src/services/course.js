@@ -1,6 +1,7 @@
 import request from '@/utils/request';
+import { DOMAINS } from '@/utils/config';
 
-const OPEN = 'https://open-test.shiguangkey.com/api';
+const OPEN = `${DOMAINS.OPEN}/api`;
 
 const indexCourseRecommend = `${OPEN}/udb/user/mine`;
 
