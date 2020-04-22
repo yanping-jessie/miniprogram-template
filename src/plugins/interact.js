@@ -16,7 +16,7 @@ Loading.default = {
   title: '加载中',
   mask: true,
 };
-Loading.close = uni.hideLoading();
+Loading.close = uni.hideLoading;
 
 // 模态框
 const Dialog = options => {
