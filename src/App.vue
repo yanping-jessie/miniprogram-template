@@ -4,6 +4,10 @@ export default {
     console.log('App Launch');
 
     const updateManager = uni.getUpdateManager();
+    updateManager.onCheckForUpdate(function(res) {
+      // 请求完新版本信息的回调
+      console.log(res.hasUpdate);
+    });
     updateManager.onUpdateReady(function(res) {
       uni.showModal({
         title: '更新提示',
