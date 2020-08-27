@@ -1,3 +1,5 @@
+const vconsoleWebpackPlugin = require('vconsole-webpack-plugin');
+
 module.exports = {
   configureWebpack: {
     module: {
@@ -20,5 +22,16 @@ module.exports = {
         },
       ],
     },
+    plugins: [
+      new vconsoleWebpackPlugin({
+        enable: process.env.NODE_ENV === 'development',
+      }),
+    ],
   },
+  devServer: {
+    // 这里可以添加本地配置域名，方便调试需要域名白名单的功能，比如微信授权、微信分享等
+    allowedHosts: [
+      '.shiguangkey.com',
+    ]
+  }
 };
