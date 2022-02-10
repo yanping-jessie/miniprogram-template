@@ -81,7 +81,7 @@
     "less-loader": "^5.0.0",
     "mini-types": "*",
     "miniprogram-api-typings": "^2.8.0-2",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "postcss-comment": "^2.0.0",
     "px2rpx-loader": "^0.1.10",
     "rimraf": "^3.0.2",
